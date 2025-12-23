@@ -1,0 +1,7 @@
+{
+  "name": "Rafid",
+  "description": "A high-end, futuristic UI/UX portfolio combining neon aesthetics with professional layouts, featuring a full-featured admin panel to manage content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
